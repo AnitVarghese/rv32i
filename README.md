@@ -58,10 +58,6 @@ riscv32i/
 
 Contributions are welcome! Please open issues and pull requests to suggest improvements or report bugs.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## References
 
 - [RISC-V ISA Specification](https://riscv.org/technical/specifications/)
